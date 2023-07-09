@@ -19,7 +19,7 @@ serde_json = { version = "1" }
 hex = "0.4"
 
 # Error handling
-thiserror = "1.0.40" # Library error handling
+thiserror = "1.0.37" # Library error handling
 
 # Logging
 log = "0.4"
